@@ -1,1 +1,1 @@
-# vite + react + ts + jest
+# vite + react + ts + jest + styledComponent + githubAction(build, jest테스트)
