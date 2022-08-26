@@ -1,2 +1,3 @@
-# vite + react + ts + jest 템플릿
-바이트 + 타입스크립트 + 리액트 + Jest
+# vite + react + ts + jest
+
+jest까지 적영된 템플릿
