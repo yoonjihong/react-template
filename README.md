@@ -1,4 +1,4 @@
-# 리택트 템플릿
+# React Template
 
 세팅 정보
 - vite
