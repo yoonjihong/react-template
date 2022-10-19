@@ -9,11 +9,5 @@
 - styledComponent
 
 
-## 개발 서버 시작
-yarn dev 
-
-## 실행 포트
-port=3000
-
-## jest 테스트
-yarn test
+## Package Manager - Yarn Berry
+해당 템플릿의 패키지 관리는 Yarn Berry를 사용하고 있습니다.
